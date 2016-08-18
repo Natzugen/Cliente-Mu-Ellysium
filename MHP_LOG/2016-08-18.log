@@ -1,0 +1,69 @@
+13:48:55 ----------------------------------------------------------------------------------------------------
+13:48:55 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3305/8084mb
+13:48:55 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+13:48:57 [CConnection::Connect] connect() failed with error: 10061
+13:48:57 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Não foi possível conectar-se ao servidor
+13:51:08 ----------------------------------------------------------------------------------------------------
+13:51:08 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3305/8084mb
+13:51:08 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+13:51:10 [CConnection::Connect] connect() failed with error: 10061
+13:51:10 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Não foi possível conectar-se ao servidor
+13:55:08 ----------------------------------------------------------------------------------------------------
+13:55:08 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3281/8084mb
+13:55:08 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+13:55:10 [CConnection::Connect] connect() failed with error: 10061
+13:55:10 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Não foi possível conectar-se ao servidor
+13:56:50 ----------------------------------------------------------------------------------------------------
+13:56:50 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3307/8084mb
+13:56:50 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+13:56:52 [CConnection::Connect] connect() failed with error: 10061
+13:56:52 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Não foi possível conectar-se ao servidor
+13:58:57 ----------------------------------------------------------------------------------------------------
+13:58:57 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3370/8084mb
+13:58:57 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+13:58:59 [CConnection::Connect] connect() failed with error: 10061
+13:58:59 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Não foi possível conectar-se ao servidor
+14:00:19 ----------------------------------------------------------------------------------------------------
+14:00:19 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3424/8084mb
+14:00:19 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+14:00:19 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 686443E6, HackVersion: PREMIUM, HardwareId: 4CA6B63C-ACC9F1B5-C16CFA7C-BD76E8D7
+14:00:19 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+14:00:20 [HCDumpListRecv] Count: 113, MaxCount: 303
+14:00:21 [HCDumpListRecv] Count: 113, MaxCount: 303
+14:00:21 [HCDumpListRecv] Count: 77, MaxCount: 303
+14:00:21 [HCChecksumListRecv] Count: 0, MaxCount: 0
+14:00:21 [HCInternalListRecv] Count: 15, MaxCount: 15
+14:00:21 [HCWindowListRecv] Count: 0, MaxCount: 0
+14:00:21 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+14:00:23 [EntryProc] Initialization successful
+14:02:10 ----------------------------------------------------------------------------------------------------
+14:02:10 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3408/8084mb
+14:02:10 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+14:02:11 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 686443E6, HackVersion: PREMIUM, HardwareId: 4CA6B63C-ACC9F1B5-C16CFA7C-BD76E8D7
+14:02:11 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+14:02:11 [HCDumpListRecv] Count: 113, MaxCount: 303
+14:02:11 [HCDumpListRecv] Count: 113, MaxCount: 303
+14:02:11 [HCDumpListRecv] Count: 77, MaxCount: 303
+14:02:11 [HCChecksumListRecv] Count: 0, MaxCount: 0
+14:02:12 [HCInternalListRecv] Count: 15, MaxCount: 15
+14:02:12 [HCWindowListRecv] Count: 0, MaxCount: 0
+14:02:13 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+14:02:15 [EntryProc] Initialization successful
+15:09:41 ----------------------------------------------------------------------------------------------------
+15:09:41 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3618/8084mb
+15:09:41 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+15:09:41 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 686443E6, HackVersion: PREMIUM, HardwareId: 4CA6B63C-ACC9F1B5-C16CFA7C-BD76E8D7
+15:09:41 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+15:09:42 [HCDumpListRecv] Count: 113, MaxCount: 303
+15:09:42 [HCDumpListRecv] Count: 113, MaxCount: 303
+15:09:43 [HCDumpListRecv] Count: 77, MaxCount: 303
+15:09:43 [HCChecksumListRecv] Count: 0, MaxCount: 0
+15:09:43 [HCInternalListRecv] Count: 15, MaxCount: 15
+15:09:43 [HCWindowListRecv] Count: 0, MaxCount: 0
+15:09:43 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+15:09:45 [EntryProc] Initialization successful
+15:38:17 ----------------------------------------------------------------------------------------------------
+15:38:17 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 4136/8084mb
+15:38:17 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+15:38:22 [CConnection::Connect] connect() failed with error: 10061
+15:38:22 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Não foi possível conectar-se ao servidor

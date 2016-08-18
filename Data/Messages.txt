@@ -1,0 +1,11 @@
+//Index       Message
+0             "A câmera 3D foi ativada"
+1             "A câmera 3D foi desativada"
+2             "O ângulo da câmera 3D foi redefinido"
+3             "The 3D Camera was enabled"
+4             "The 3D Camera was disabled"
+5             "The 3D Camera's angle was reseted"
+6             "La cámara 3D fue activada"
+7             "La cámara 3D fue desactivada"
+8             "Ángulo del cámara 3D fue reseteado"
+end

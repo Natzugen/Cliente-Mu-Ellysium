@@ -1,0 +1,78 @@
+17:31:16 ----------------------------------------------------------------------------------------------------
+17:31:16 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.1.7601, MemoryUsage: 2337/3979mb
+17:31:16 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Ellysium Mu Online
+17:31:16 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A342FDB2, HackVersion: PREMIUM, HardwareId: 3AD3B74A-94FDC685-F75CBC4D-8946DDE1
+17:31:16 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+17:31:16 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:31:16 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:31:16 [HCDumpListRecv] Count: 77, MaxCount: 303
+17:31:16 [HCChecksumListRecv] Count: 0, MaxCount: 0
+17:31:16 [HCInternalListRecv] Count: 15, MaxCount: 15
+17:31:16 [HCWindowListRecv] Count: 0, MaxCount: 0
+17:31:17 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+17:31:19 [EntryProc] Initialization successful
+18:09:58 ----------------------------------------------------------------------------------------------------
+18:09:58 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.1.7601, MemoryUsage: 2161/3979mb
+18:09:58 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Ellysium Mu Online
+18:09:58 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A342FDB2, HackVersion: PREMIUM, HardwareId: 3AD3B74A-94FDC685-F75CBC4D-8946DDE1
+18:09:58 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+18:09:58 [HCDumpListRecv] Count: 113, MaxCount: 303
+18:09:58 [HCDumpListRecv] Count: 113, MaxCount: 303
+18:09:58 [HCDumpListRecv] Count: 77, MaxCount: 303
+18:09:58 [HCChecksumListRecv] Count: 0, MaxCount: 0
+18:09:58 [HCInternalListRecv] Count: 15, MaxCount: 15
+18:09:58 [HCWindowListRecv] Count: 0, MaxCount: 0
+18:09:59 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+18:10:01 [EntryProc] Initialization successful
+19:22:04 ----------------------------------------------------------------------------------------------------
+19:22:04 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.1.7601, MemoryUsage: 2613/3979mb
+19:22:04 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Ellysium Mu Online
+19:22:04 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A342FDB2, HackVersion: PREMIUM, HardwareId: 3AD3B74A-94FDC685-F75CBC4D-8946DDE1
+19:22:04 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+19:22:04 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:22:04 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:22:04 [HCDumpListRecv] Count: 77, MaxCount: 303
+19:22:04 [HCChecksumListRecv] Count: 0, MaxCount: 0
+19:22:04 [HCInternalListRecv] Count: 15, MaxCount: 15
+19:22:04 [HCWindowListRecv] Count: 0, MaxCount: 0
+19:22:04 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+19:22:07 [EntryProc] Initialization successful
+19:36:35 ----------------------------------------------------------------------------------------------------
+19:36:35 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.1.7601, MemoryUsage: 2205/3979mb
+19:36:35 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Ellysium Mu Online
+19:36:36 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A342FDB2, HackVersion: PREMIUM, HardwareId: 3AD3B74A-94FDC685-F75CBC4D-8946DDE1
+19:36:36 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+19:36:36 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:36:36 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:36:36 [HCDumpListRecv] Count: 77, MaxCount: 303
+19:36:36 [HCChecksumListRecv] Count: 0, MaxCount: 0
+19:36:36 [HCInternalListRecv] Count: 15, MaxCount: 15
+19:36:36 [HCWindowListRecv] Count: 0, MaxCount: 0
+19:36:36 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+19:36:38 [EntryProc] Initialization successful
+19:39:21 ----------------------------------------------------------------------------------------------------
+19:39:21 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.1.7601, MemoryUsage: 2190/3979mb
+19:39:21 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Ellysium Mu Online
+19:39:21 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A342FDB2, HackVersion: PREMIUM, HardwareId: 3AD3B74A-94FDC685-F75CBC4D-8946DDE1
+19:39:21 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+19:39:21 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:39:21 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:39:21 [HCDumpListRecv] Count: 77, MaxCount: 303
+19:39:21 [HCChecksumListRecv] Count: 0, MaxCount: 0
+19:39:21 [HCInternalListRecv] Count: 15, MaxCount: 15
+19:39:21 [HCWindowListRecv] Count: 0, MaxCount: 0
+19:39:21 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+19:39:23 [EntryProc] Initialization successful
+19:49:25 ----------------------------------------------------------------------------------------------------
+19:49:25 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.1.7601, MemoryUsage: 2747/3979mb
+19:49:25 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Ellysium Mu Online
+19:49:25 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A342FDB2, HackVersion: PREMIUM, HardwareId: 3AD3B74A-94FDC685-F75CBC4D-8946DDE1
+19:49:25 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 1 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+19:49:25 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:49:25 [HCDumpListRecv] Count: 113, MaxCount: 303
+19:49:25 [HCDumpListRecv] Count: 77, MaxCount: 303
+19:49:25 [HCChecksumListRecv] Count: 0, MaxCount: 0
+19:49:25 [HCInternalListRecv] Count: 15, MaxCount: 15
+19:49:25 [HCWindowListRecv] Count: 0, MaxCount: 0
+19:49:25 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+19:49:28 [EntryProc] Initialization successful
