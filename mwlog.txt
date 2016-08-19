@@ -2,3 +2,7 @@
 Error en el servidor remoto: (404) No se encontró.
 El servidor de actualizaciones esta fuera de servicio. ERROR 407
 ************************************************
+18/08/2016 10:49:41 p. m.
+No es posible conectar con el servidor remoto
+El servidor de actualizaciones esta fuera de servicio. ERROR 407
+************************************************
