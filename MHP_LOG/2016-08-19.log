@@ -1,0 +1,5 @@
+02:53:45 ----------------------------------------------------------------------------------------------------
+02:53:45 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 3294/8084mb
+02:53:45 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licenciado para: MuEMU.pl
+02:54:06 [CConnection::Connect] connect() failed with error: 10060
+02:54:06 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Não foi possível conectar-se ao servidor
